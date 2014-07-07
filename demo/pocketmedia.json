@@ -1,0 +1,14 @@
+{"flows": {
+    "main": {
+        "title":"Main",
+        "slides": [
+            {
+                "id": "0",
+                "title": "Home",
+                "opens_chapter": {"name":"Home","level":0},                                
+                "url": "index.html"
+            }
+        ]
+    }
+  }
+}
